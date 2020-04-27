@@ -1,1 +1,1 @@
-# Monsters-Rolodex App built with Redux
+# Monsters-Rolodex App built with React
